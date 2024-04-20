@@ -18,9 +18,9 @@ Vendetta's codebase is platform-agnostic, but you need a platform-specific loade
 > RYZ CLIENT WILL NOT HAVE AN IOS.
 
 
-THIS IS A VENDETTA FORK.
+This is a vendetta fork. 
 
-THAT WILL BE EDITED. 
+Changes will be made soon....
 
 
 
