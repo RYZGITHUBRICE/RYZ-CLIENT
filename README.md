@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> As of 06/02/24, Vendetta has been discontinued.
+> As of 4/20/2024 Ryz client is in BETA
 
 # Vendetta
 A mod for Discord's mobile apps.
