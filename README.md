@@ -1,7 +1,7 @@
 > [!IMPORTANT]  
 > As of 4/20/2024 Ryz client is in BETA
 
-# Vendetta
+# RYZ CLIENT
 A mod for Discord's mobile apps.
 
 ## Installing
@@ -17,6 +17,10 @@ Vendetta's codebase is platform-agnostic, but you need a platform-specific loade
 > [!IMPORTANT]
 > RYZ CLIENT WILL NOT HAVE AN IOS.
 
+
+THIS IS A VENDETTA FORK.
+
+THAT WILL BE EDITED. 
 
 
 
